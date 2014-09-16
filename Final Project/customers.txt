@@ -1,0 +1,8 @@
+HelloMan
+hello
+helloman@gmail.com
+10.06
+hello
+world
+HelloWorld@Derp.com
+-1.#QNAN
